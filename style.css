@@ -11,6 +11,8 @@
   display: inline-flex;
   margin: 0;
   padding: 0;
+  margin-right: 15px;
+  margin-top: 10px;
 }
 
 /* Top text near to button */
