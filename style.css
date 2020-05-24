@@ -1,0 +1,117 @@
+/* Body */
+/* html, body {
+    background: #eceef1;
+    color: #514c4c;
+    font-size: 14px;
+} */
+
+/* Top navigation bar */
+.nav {
+  float: right;
+  display: inline-flex;
+  margin: 0;
+  padding: 0;
+}
+
+/* Top text near to button */
+.nav-text {
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+
+/* Paragraph inside the top text */
+.nav-text p {
+  font-size: 13px;
+  margin: 0;
+}
+
+/* Navigation button */
+.nav-button {
+  margin: 0;
+  padding: 0;
+  margin-left: 10px;
+  display: inline;
+}
+
+/* #nav-link {
+  margin: 0;
+  padding: 0;
+} */
+
+/* Central image with logos */
+img {
+  clear: both;
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.image-logo {
+  clear: both;
+  width: 60%;
+  margin: auto;
+}
+
+/* Intro text beneath the logos */
+.intro-text {
+  /*   width: 25%; */
+  margin: auto;
+  text-align: center;
+}
+
+form {
+  /*   width: 23%; */
+  margin: auto;
+}
+
+#button {
+  width: 100%;
+  height: 50px;
+}
+
+.outro-text {
+  /*   width: 25%; */
+  margin: auto;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 12px;
+}
+
+.captcha {
+  /*   width: 25%; */
+  /*   margin: auto; */
+  text-align: center;
+  margin-top: 30px;
+  font-size: 12px;
+}
+
+section {
+  background: #eceef1;
+  width: 25%;
+  margin: auto;
+  border: 1px solid;
+  padding: 15px;
+}
+
+nav {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  word-spacing: 20px;
+}
+
+.final-text {
+  font-size: 12px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.final-text p {
+  font-size: 13px;
+  margin: 0;
+}
